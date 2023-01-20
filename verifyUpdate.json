@@ -1,6 +1,6 @@
 {
-        "lastVersion": "1.0.2s",
-        "titleNotification": "Actualización",
-        "subTitleNotification": "No tienes la última versión de la aplicación, por favor actualizalo.",
-        "buttonText": "Descargar Actualización",
+   "lastVersion":"1.0.2s",
+   "titleNotification":"Actualización",
+   "subTitleNotification":"No tienes la última versión de la aplicación, por favor actualizalo.",
+   "buttonText":"Descargar Actualización"
 }
